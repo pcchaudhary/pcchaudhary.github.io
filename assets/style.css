@@ -1,0 +1,28 @@
+body {
+    front-family: Arial, sans-serif;
+    background-color: blueviolet;
+}
+
+h1 {
+    color: blue;
+}
+
+.menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.menu li a {
+    display: inline;
+    color: black;
+}
+
+/* ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+} */
+
